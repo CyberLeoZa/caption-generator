@@ -25,7 +25,7 @@ Includes a Tkinter GUI with:
 ## Setup
 
 ```bash
-git clone https://github.com/yourusername/caption-generator.git
+git clone [https://github.com/yourusername/caption-generator.git](https://github.com/CyberLeoZa/caption-generator.git)
 cd caption-generator
 pip install -r requirements.txt
 ```
